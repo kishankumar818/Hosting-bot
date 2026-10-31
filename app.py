@@ -46,7 +46,7 @@ except ValueError:
     logger.error("OWNER_ID or ADMIN_ID must be valid integers!")
     raise
 
-YOUR_USERNAME = '@Hackerwibes9'
+YOUR_USERNAME = 't.me/Krishna_Zx_0'
 UPDATE_CHANNEL = 'https://t.me/LOKERFF'
 YOUTUBE_CHANNEL = 'https://www.youtube.com/@LOKER_FF'
 CHANNEL_USERNAME = '@' + UPDATE_CHANNEL.rstrip('/').split('/')[-1]
